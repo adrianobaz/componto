@@ -1,0 +1,144 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.customer-img1 {
+  background-image: url(sprite.jpg);
+  background-position: -3700px -1043px;
+  width: 78px;
+  height: 78px;
+}
+.customer-img2 {
+  background-image: url(sprite.jpg);
+  background-position: -3619px -1043px;
+  width: 81px;
+  height: 81px;
+}
+.featured1 {
+  background-image: url(sprite.jpg);
+  background-position: -3075px -1656px;
+  width: 400px;
+  height: 291px;
+}
+.featured2 {
+  background-image: url(sprite.jpg);
+  background-position: -3350px -1242px;
+  width: 401px;
+  height: 291px;
+}
+.featured3 {
+  background-image: url(sprite.jpg);
+  background-position: -2275px -1656px;
+  width: 400px;
+  height: 291px;
+}
+.featured4 {
+  background-image: url(sprite.jpg);
+  background-position: -2675px -1656px;
+  width: 400px;
+  height: 291px;
+}
+.find-place1 {
+  background-image: url(sprite.jpg);
+  background-position: 0px -1969px;
+  width: 400px;
+  height: 689px;
+}
+.find-place2 {
+  background-image: url(sprite.jpg);
+  background-position: -800px -1969px;
+  width: 401px;
+  height: 417px;
+}
+.find-place3 {
+  background-image: url(sprite.jpg);
+  background-position: -3475px -1656px;
+  width: 400px;
+  height: 238px;
+}
+.find-place4 {
+  background-image: url(sprite.jpg);
+  background-position: -1201px -1969px;
+  width: 400px;
+  height: 220px;
+}
+.find-place5 {
+  background-image: url(sprite.jpg);
+  background-position: -400px -1969px;
+  width: 400px;
+  height: 436px;
+}
+.follow-img {
+  background-image: url(sprite.jpg);
+  background-position: -3619px -828px;
+  width: 131px;
+  height: 132px;
+}
+.map {
+  background-image: url(sprite.jpg);
+  background-position: -2947px -1242px;
+  width: 403px;
+  height: 291px;
+}
+.reserve-slide1 {
+  background-image: url(sprite.jpg);
+  background-position: -2275px -1242px;
+  width: 672px;
+  height: 414px;
+}
+.reserve-slide2 {
+  background-image: url(sprite.jpg);
+  background-position: -2947px -828px;
+  width: 672px;
+  height: 414px;
+}
+.reserve-slide3 {
+  background-image: url(sprite.jpg);
+  background-position: -2275px -828px;
+  width: 672px;
+  height: 414px;
+}
+.review-img1 {
+  background-image: url(sprite.jpg);
+  background-position: -3750px -828px;
+  width: 117px;
+  height: 83px;
+}
+.review-img2 {
+  background-image: url(sprite.jpg);
+  background-position: -3736px -960px;
+  width: 114px;
+  height: 83px;
+}
+.review-img3 {
+  background-image: url(sprite.jpg);
+  background-position: -3619px -960px;
+  width: 117px;
+  height: 83px;
+}
+.slider {
+  background-image: url(sprite.jpg);
+  background-position: -2275px 0px;
+  width: 1603px;
+  height: 828px;
+}
+.sprite {
+  background-image: url(sprite.jpg);
+  background-position: 0px 0px;
+  width: 2275px;
+  height: 1969px;
+}

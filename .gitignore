@@ -3,6 +3,7 @@ node_modules/
 gulpfile.js
 package.json
 package-lock.json
+listing-master/
 
 # Numerous always-ignore extensions
 *.diff
